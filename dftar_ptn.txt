@@ -1,3 +1,5 @@
 ITB (Institut Teknologi Bandung)
 UGM (Universitas Gajah Mada)
 Upi (Universitas Pendidikan Upi)
+IPB (Institut Pertanian Bogor)
+UI (Universitas Indonesia)
